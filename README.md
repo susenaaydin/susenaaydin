@@ -25,12 +25,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<!-- Kartların yan yana düzeni -->
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=susenaaydin&layout=compact&langs_count=6&theme=default" alt="Top Langs" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=susenaaydin&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=susenaaydin&theme=default" alt="GitHub Streak" />
+<!-- GÖRSEL VE ENTEGRE İSTATİSTİK BÖLÜMÜ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/profile-stats.png" alt="Sude Sena Aydın GitHub Stats" />
 </p>
